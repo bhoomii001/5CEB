@@ -16,6 +16,8 @@ namespace _5CEB
             sum = a + b;
             Console.WriteLine("sum is " + sum);
 
+            Console.Write("this is from github");
+
             Console.Read();
 
         }
